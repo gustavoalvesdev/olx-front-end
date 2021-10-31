@@ -28,6 +28,8 @@ const Page = () => {
             window.location.href = '/';
         }   
 
+        setDisabled(false);
+
     }
 
     return (
